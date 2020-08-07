@@ -1,0 +1,5 @@
+[2020-07-30T18:25:11+08:00][error] [0]语法错误: unexpected ','[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:46]
+[2020-07-30T18:25:43+08:00][error] [0]语法错误: unexpected ','[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:46]
+[2020-07-30T18:26:03+08:00][error] [0]语法错误: unexpected ','[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:46]
+[2020-07-30T18:26:31+08:00][error] [0]语法错误: unexpected ']'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:47]
+[2020-07-30T18:26:36+08:00][error] [0]语法错误: unexpected ']'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:47]

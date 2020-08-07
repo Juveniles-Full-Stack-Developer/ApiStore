@@ -1,0 +1,11 @@
+[2020-07-28T11:58:15+08:00][error] [0]语法错误: unexpected '$res' (T_VARIABLE)[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:22]
+[2020-07-28T11:58:45+08:00][error] [0]Call to undefined method app\controller\Apigetlist::isPost()[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:13]
+[2020-07-28T12:01:02+08:00][sql] CONNECT:[ UseTime:0.009717s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-28T12:01:02+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.088984s ]
+[2020-07-28T12:01:02+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.030218s ]
+[2020-07-28T14:49:08+08:00][error] [8]未定义变量: request[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:14]
+[2020-07-28T14:49:21+08:00][error] [8]未定义变量: request[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:14]
+[2020-07-28T14:49:22+08:00][error] [8]未定义变量: request[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:14]
+[2020-07-28T14:49:22+08:00][error] [8]未定义变量: request[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:14]
+[2020-07-28T14:51:42+08:00][error] [0]语法错误: unexpected ')'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:14]
+[2020-07-28T14:51:55+08:00][error] [0]Call to undefined function app\controller\isPost()[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:14]

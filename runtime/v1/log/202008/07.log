@@ -1,0 +1,4 @@
+[2020-08-07T11:42:54+08:00][sql] CONNECT:[ UseTime:0.011508s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-07T11:42:54+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.013615s ]
+[2020-08-07T11:42:54+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.029777s ]
+[2020-08-07T11:42:54+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000422s ]

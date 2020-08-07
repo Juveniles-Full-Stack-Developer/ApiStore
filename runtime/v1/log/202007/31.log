@@ -1,0 +1,105 @@
+[2020-07-31T16:09:27+08:00][sql] CONNECT:[ UseTime:0.007686s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:09:27+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.026756s ]
+[2020-07-31T16:09:27+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.019600s ]
+[2020-07-31T16:11:18+08:00][sql] CONNECT:[ UseTime:0.000793s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:11:18+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002113s ]
+[2020-07-31T16:11:18+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000854s ]
+[2020-07-31T16:12:50+08:00][sql] CONNECT:[ UseTime:0.010677s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:12:50+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001996s ]
+[2020-07-31T16:12:50+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000913s ]
+[2020-07-31T16:36:38+08:00][sql] CONNECT:[ UseTime:0.001075s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:36:38+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002383s ]
+[2020-07-31T16:36:38+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000848s ]
+[2020-07-31T16:37:31+08:00][sql] CONNECT:[ UseTime:0.010590s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:37:31+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002054s ]
+[2020-07-31T16:37:31+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000943s ]
+[2020-07-31T16:40:44+08:00][sql] CONNECT:[ UseTime:0.000624s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:40:44+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002267s ]
+[2020-07-31T16:40:44+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001144s ]
+[2020-07-31T16:41:18+08:00][sql] CONNECT:[ UseTime:0.011191s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:41:18+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001894s ]
+[2020-07-31T16:41:18+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000811s ]
+[2020-07-31T16:48:57+08:00][sql] CONNECT:[ UseTime:0.000873s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:48:57+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002244s ]
+[2020-07-31T16:48:57+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000976s ]
+[2020-07-31T16:49:06+08:00][sql] CONNECT:[ UseTime:0.011242s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:49:06+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002303s ]
+[2020-07-31T16:49:06+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001082s ]
+[2020-07-31T16:51:45+08:00][sql] CONNECT:[ UseTime:0.000869s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:51:45+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002395s ]
+[2020-07-31T16:51:45+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000958s ]
+[2020-07-31T16:56:24+08:00][sql] CONNECT:[ UseTime:0.010614s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:56:24+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.012065s ]
+[2020-07-31T16:56:24+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001157s ]
+[2020-07-31T16:57:23+08:00][sql] CONNECT:[ UseTime:0.010669s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:57:23+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002695s ]
+[2020-07-31T16:57:23+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001070s ]
+[2020-07-31T16:59:03+08:00][sql] CONNECT:[ UseTime:0.010769s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:59:03+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002486s ]
+[2020-07-31T16:59:03+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000976s ]
+[2020-07-31T16:59:39+08:00][sql] CONNECT:[ UseTime:0.011185s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T16:59:39+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001905s ]
+[2020-07-31T16:59:39+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000857s ]
+[2020-07-31T17:03:13+08:00][sql] CONNECT:[ UseTime:0.010897s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:03:13+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002331s ]
+[2020-07-31T17:03:13+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000996s ]
+[2020-07-31T17:07:16+08:00][sql] CONNECT:[ UseTime:0.010796s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:07:16+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002029s ]
+[2020-07-31T17:07:16+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000897s ]
+[2020-07-31T17:10:06+08:00][sql] CONNECT:[ UseTime:0.011271s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:06+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.010246s ]
+[2020-07-31T17:10:06+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000635s ]
+[2020-07-31T17:10:12+08:00][sql] CONNECT:[ UseTime:0.010877s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001658s ]
+[2020-07-31T17:10:12+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000338s ]
+[2020-07-31T17:10:13+08:00][sql] CONNECT:[ UseTime:0.010093s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:13+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001695s ]
+[2020-07-31T17:10:13+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000311s ]
+[2020-07-31T17:10:14+08:00][sql] CONNECT:[ UseTime:0.010695s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:14+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001267s ]
+[2020-07-31T17:10:14+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000339s ]
+[2020-07-31T17:10:17+08:00][sql] CONNECT:[ UseTime:0.010721s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:17+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001342s ]
+[2020-07-31T17:10:17+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000331s ]
+[2020-07-31T17:10:17+08:00][sql] CONNECT:[ UseTime:0.009917s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:17+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001360s ]
+[2020-07-31T17:10:17+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000284s ]
+[2020-07-31T17:10:18+08:00][sql] CONNECT:[ UseTime:0.010504s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:18+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001327s ]
+[2020-07-31T17:10:18+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000337s ]
+[2020-07-31T17:10:18+08:00][sql] CONNECT:[ UseTime:0.010402s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:18+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001409s ]
+[2020-07-31T17:10:18+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000331s ]
+[2020-07-31T17:10:18+08:00][sql] CONNECT:[ UseTime:0.011294s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:18+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001279s ]
+[2020-07-31T17:10:18+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000302s ]
+[2020-07-31T17:10:19+08:00][sql] CONNECT:[ UseTime:0.010468s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:19+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001313s ]
+[2020-07-31T17:10:19+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000367s ]
+[2020-07-31T17:10:19+08:00][sql] CONNECT:[ UseTime:0.010554s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:19+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001306s ]
+[2020-07-31T17:10:19+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000358s ]
+[2020-07-31T17:10:19+08:00][sql] CONNECT:[ UseTime:0.010596s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:19+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001292s ]
+[2020-07-31T17:10:19+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000350s ]
+[2020-07-31T17:10:20+08:00][sql] CONNECT:[ UseTime:0.009731s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:20+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001306s ]
+[2020-07-31T17:10:20+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000351s ]
+[2020-07-31T17:10:21+08:00][sql] CONNECT:[ UseTime:0.000602s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:10:21+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001634s ]
+[2020-07-31T17:10:21+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000331s ]
+[2020-07-31T17:18:14+08:00][sql] CONNECT:[ UseTime:0.000945s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:18:14+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001943s ]
+[2020-07-31T17:18:14+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000393s ]
+[2020-07-31T17:19:22+08:00][sql] CONNECT:[ UseTime:0.000763s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:19:22+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001750s ]
+[2020-07-31T17:19:22+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000320s ]
+[2020-07-31T17:20:33+08:00][sql] CONNECT:[ UseTime:0.011251s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:20:33+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001358s ]
+[2020-07-31T17:20:33+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000361s ]
+[2020-07-31T17:21:57+08:00][sql] CONNECT:[ UseTime:0.000690s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:21:57+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001398s ]
+[2020-07-31T17:21:57+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000315s ]
+[2020-07-31T17:52:02+08:00][sql] CONNECT:[ UseTime:0.000955s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-07-31T17:52:02+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001644s ]
+[2020-07-31T17:52:02+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000303s ]

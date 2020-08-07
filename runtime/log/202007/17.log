@@ -1,0 +1,7 @@
+[2020-07-17T16:09:50+08:00][error] [0]Driver [Think] not supported.[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Manager.php:103]
+[2020-07-17T16:10:00+08:00][error] [0]语法错误: unexpected '('[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Index.php:10]
+[2020-07-17T16:11:22+08:00][error] [0]Class 'app\controller\View' not found[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Index.php:10]
+[2020-07-17T16:11:27+08:00][error] [0]Class 'app\controller\View' not found[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Index.php:10]
+[2020-07-17T16:12:36+08:00][error] [0]Driver [Think] not supported.[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Manager.php:103]
+[2020-07-17T16:16:30+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\127.0.0.12\apistore\view\index\index.html[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-view\src\Think.php:146]
+[2020-07-17T17:38:20+08:00][error] [0]语法错误: unexpected '=>' (T_DOUBLE_ARROW), expecting ']'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\controller\Apigetlist.php:12]

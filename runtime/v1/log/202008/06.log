@@ -1,0 +1,693 @@
+[2020-08-06T09:06:06+08:00][sql] CONNECT:[ UseTime:0.021252s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:06:06+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.078367s ]
+[2020-08-06T09:06:06+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.024042s ]
+[2020-08-06T09:15:12+08:00][sql] CONNECT:[ UseTime:0.010463s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:15:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002127s ]
+[2020-08-06T09:15:12+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000866s ]
+[2020-08-06T09:19:26+08:00][sql] CONNECT:[ UseTime:0.000820s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:19:26+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002173s ]
+[2020-08-06T09:19:26+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000876s ]
+[2020-08-06T09:19:27+08:00][sql] CONNECT:[ UseTime:0.010259s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:19:27+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001796s ]
+[2020-08-06T09:19:27+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000820s ]
+[2020-08-06T09:23:39+08:00][sql] CONNECT:[ UseTime:0.011283s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:23:39+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001967s ]
+[2020-08-06T09:23:39+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000809s ]
+[2020-08-06T09:34:00+08:00][error] [0]Call to undefined method think\Db::table()[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:12]
+[2020-08-06T09:34:52+08:00][sql] CONNECT:[ UseTime:0.011486s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:34:52+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001841s ]
+[2020-08-06T09:34:52+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000804s ]
+[2020-08-06T09:35:15+08:00][sql] CONNECT:[ UseTime:0.010525s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:35:15+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001693s ]
+[2020-08-06T09:35:15+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000921s ]
+[2020-08-06T09:35:18+08:00][sql] CONNECT:[ UseTime:0.000682s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:35:18+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001358s ]
+[2020-08-06T09:35:18+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000746s ]
+[2020-08-06T09:35:19+08:00][sql] CONNECT:[ UseTime:0.011226s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:35:19+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001392s ]
+[2020-08-06T09:35:19+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000793s ]
+[2020-08-06T09:36:00+08:00][sql] CONNECT:[ UseTime:0.010692s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:36:00+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.002036s ]
+[2020-08-06T09:36:00+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000952s ]
+[2020-08-06T09:36:56+08:00][sql] CONNECT:[ UseTime:0.010860s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:36:56+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001720s ]
+[2020-08-06T09:36:56+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL [ RunTime:0.000797s ]
+[2020-08-06T09:37:46+08:00][sql] CONNECT:[ UseTime:0.010726s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:37:46+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001816s ]
+[2020-08-06T09:37:46+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL [ RunTime:0.000889s ]
+[2020-08-06T09:37:46+08:00][sql] CONNECT:[ UseTime:0.011225s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:37:46+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001718s ]
+[2020-08-06T09:37:46+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL [ RunTime:0.000807s ]
+[2020-08-06T09:37:46+08:00][sql] CONNECT:[ UseTime:0.010825s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:37:46+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001818s ]
+[2020-08-06T09:37:46+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL [ RunTime:0.000811s ]
+[2020-08-06T09:37:47+08:00][sql] CONNECT:[ UseTime:0.010824s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:37:47+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001190s ]
+[2020-08-06T09:37:47+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL [ RunTime:0.000757s ]
+[2020-08-06T09:39:00+08:00][sql] CONNECT:[ UseTime:0.011464s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:00+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001582s ]
+[2020-08-06T09:39:00+08:00][sql] SELECT * FROM `api_admin` [ RunTime:0.001206s ]
+[2020-08-06T09:39:32+08:00][sql] CONNECT:[ UseTime:0.010877s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:32+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001256s ]
+[2020-08-06T09:39:32+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000784s ]
+[2020-08-06T09:39:32+08:00][sql] CONNECT:[ UseTime:0.010651s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:32+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001569s ]
+[2020-08-06T09:39:32+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000950s ]
+[2020-08-06T09:39:33+08:00][sql] CONNECT:[ UseTime:0.010158s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:33+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001283s ]
+[2020-08-06T09:39:33+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000809s ]
+[2020-08-06T09:39:33+08:00][sql] CONNECT:[ UseTime:0.010529s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:33+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001291s ]
+[2020-08-06T09:39:33+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000314s ]
+[2020-08-06T09:39:33+08:00][sql] CONNECT:[ UseTime:0.000693s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:33+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001261s ]
+[2020-08-06T09:39:33+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000784s ]
+[2020-08-06T09:39:33+08:00][sql] CONNECT:[ UseTime:0.010523s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:33+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001343s ]
+[2020-08-06T09:39:33+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000365s ]
+[2020-08-06T09:39:33+08:00][sql] CONNECT:[ UseTime:0.000681s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:33+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001305s ]
+[2020-08-06T09:39:33+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000325s ]
+[2020-08-06T09:39:39+08:00][sql] CONNECT:[ UseTime:0.010681s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:39+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001496s ]
+[2020-08-06T09:39:39+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin2' [ RunTime:0.000307s ]
+[2020-08-06T09:39:39+08:00][sql] CONNECT:[ UseTime:0.000695s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:39+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001255s ]
+[2020-08-06T09:39:39+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin2' [ RunTime:0.000348s ]
+[2020-08-06T09:39:39+08:00][sql] CONNECT:[ UseTime:0.010493s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:39+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001275s ]
+[2020-08-06T09:39:39+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin2' [ RunTime:0.000348s ]
+[2020-08-06T09:39:46+08:00][sql] CONNECT:[ UseTime:0.010909s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:39:46+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001246s ]
+[2020-08-06T09:39:46+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000275s ]
+[2020-08-06T09:40:37+08:00][sql] CONNECT:[ UseTime:0.011366s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:40:37+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001478s ]
+[2020-08-06T09:40:37+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000241s ]
+[2020-08-06T09:40:37+08:00][error] [8]Undefined property: think\Collection::$adminuser[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:13]
+[2020-08-06T09:41:20+08:00][sql] CONNECT:[ UseTime:0.010039s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:41:20+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001290s ]
+[2020-08-06T09:41:20+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000353s ]
+[2020-08-06T09:41:20+08:00][error] [8]未定义数组索引: adminuser[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-helper\src\Collection.php:585]
+[2020-08-06T09:41:38+08:00][sql] CONNECT:[ UseTime:0.000672s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:41:38+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001244s ]
+[2020-08-06T09:41:38+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000322s ]
+[2020-08-06T09:41:38+08:00][error] [8]未定义数组索引: id[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-helper\src\Collection.php:585]
+[2020-08-06T09:41:54+08:00][error] [0]语法错误: unexpected ''id'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:13]
+[2020-08-06T09:44:14+08:00][sql] CONNECT:[ UseTime:0.000747s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:44:14+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001705s ]
+[2020-08-06T09:44:14+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' [ RunTime:0.000258s ]
+[2020-08-06T09:44:14+08:00][error] [8]未定义数组索引: id[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-helper\src\Collection.php:585]
+[2020-08-06T09:44:52+08:00][sql] CONNECT:[ UseTime:0.011320s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:44:52+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001318s ]
+[2020-08-06T09:44:52+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL [ RunTime:0.000351s ]
+[2020-08-06T09:44:52+08:00][error] [8]未定义数组索引: id[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-helper\src\Collection.php:585]
+[2020-08-06T09:45:03+08:00][sql] CONNECT:[ UseTime:0.000569s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:45:03+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001158s ]
+[2020-08-06T09:45:03+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL [ RunTime:0.000251s ]
+[2020-08-06T09:45:27+08:00][sql] CONNECT:[ UseTime:0.000635s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:45:27+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001363s ]
+[2020-08-06T09:45:27+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' [ RunTime:0.000316s ]
+[2020-08-06T09:46:18+08:00][sql] CONNECT:[ UseTime:0.011166s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:46:18+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001452s ]
+[2020-08-06T09:46:18+08:00][sql] SELECT * FROM `api_admin` [ RunTime:0.000360s ]
+[2020-08-06T09:46:18+08:00][error] [0]variable type error： array[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Response.php:392]
+[2020-08-06T09:46:31+08:00][sql] CONNECT:[ UseTime:0.010475s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:46:31+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001427s ]
+[2020-08-06T09:46:31+08:00][sql] SELECT * FROM `api_admin` [ RunTime:0.000231s ]
+[2020-08-06T09:47:10+08:00][sql] CONNECT:[ UseTime:0.009571s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:10+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001255s ]
+[2020-08-06T09:47:10+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' LIMIT 1 [ RunTime:0.000314s ]
+[2020-08-06T09:47:11+08:00][sql] CONNECT:[ UseTime:0.011113s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:11+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001274s ]
+[2020-08-06T09:47:11+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' LIMIT 1 [ RunTime:0.000298s ]
+[2020-08-06T09:47:30+08:00][sql] CONNECT:[ UseTime:0.000583s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:30+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001160s ]
+[2020-08-06T09:47:30+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' LIMIT 1 [ RunTime:0.000203s ]
+[2020-08-06T09:47:31+08:00][sql] CONNECT:[ UseTime:0.011133s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:31+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001312s ]
+[2020-08-06T09:47:31+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' LIMIT 1 [ RunTime:0.000370s ]
+[2020-08-06T09:47:31+08:00][sql] CONNECT:[ UseTime:0.010444s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:31+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001299s ]
+[2020-08-06T09:47:31+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' LIMIT 1 [ RunTime:0.000358s ]
+[2020-08-06T09:47:31+08:00][sql] CONNECT:[ UseTime:0.009974s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:31+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001239s ]
+[2020-08-06T09:47:31+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' LIMIT 1 [ RunTime:0.000320s ]
+[2020-08-06T09:47:46+08:00][sql] CONNECT:[ UseTime:0.011476s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:46+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001276s ]
+[2020-08-06T09:47:46+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = '$username' LIMIT 1 [ RunTime:0.000342s ]
+[2020-08-06T09:47:58+08:00][sql] CONNECT:[ UseTime:0.011220s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:58+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001264s ]
+[2020-08-06T09:47:58+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000332s ]
+[2020-08-06T09:47:58+08:00][error] [0]variable type error： array[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Response.php:392]
+[2020-08-06T09:47:59+08:00][sql] CONNECT:[ UseTime:0.010598s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:47:59+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001379s ]
+[2020-08-06T09:47:59+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000455s ]
+[2020-08-06T09:47:59+08:00][error] [0]variable type error： array[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Response.php:392]
+[2020-08-06T09:49:20+08:00][sql] CONNECT:[ UseTime:0.000684s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:49:20+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001646s ]
+[2020-08-06T09:49:20+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000405s ]
+[2020-08-06T09:49:20+08:00][error] [0]variable type error： array[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Response.php:392]
+[2020-08-06T09:49:38+08:00][sql] CONNECT:[ UseTime:0.011031s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:49:38+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001778s ]
+[2020-08-06T09:49:38+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000427s ]
+[2020-08-06T09:50:01+08:00][sql] CONNECT:[ UseTime:0.000698s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:50:01+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001294s ]
+[2020-08-06T09:50:01+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000287s ]
+[2020-08-06T09:50:01+08:00][error] [8]Array to string conversion[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:13]
+[2020-08-06T09:50:11+08:00][sql] CONNECT:[ UseTime:0.009721s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:50:11+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001309s ]
+[2020-08-06T09:50:11+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000361s ]
+[2020-08-06T09:50:11+08:00][error] [0]variable type error： array[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Response.php:392]
+[2020-08-06T09:50:24+08:00][sql] CONNECT:[ UseTime:0.011386s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:50:24+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001452s ]
+[2020-08-06T09:50:24+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000341s ]
+[2020-08-06T09:50:24+08:00][error] [0]variable type error： array[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\framework\src\think\Response.php:392]
+[2020-08-06T09:50:49+08:00][sql] CONNECT:[ UseTime:0.000611s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:50:49+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001174s ]
+[2020-08-06T09:50:49+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000278s ]
+[2020-08-06T09:50:49+08:00][error] [8]Trying to get property of non-object[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:13]
+[2020-08-06T09:51:01+08:00][sql] CONNECT:[ UseTime:0.000680s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:51:01+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001294s ]
+[2020-08-06T09:51:01+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000363s ]
+[2020-08-06T09:51:08+08:00][sql] CONNECT:[ UseTime:0.010512s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:51:08+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001329s ]
+[2020-08-06T09:51:08+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000351s ]
+[2020-08-06T09:51:08+08:00][error] [8]未定义数组索引: name[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:13]
+[2020-08-06T09:51:13+08:00][sql] CONNECT:[ UseTime:0.000766s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:51:13+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001573s ]
+[2020-08-06T09:51:13+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000380s ]
+[2020-08-06T09:51:13+08:00][error] [8]未定义数组索引: username[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:13]
+[2020-08-06T09:51:30+08:00][sql] CONNECT:[ UseTime:0.011272s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:51:30+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001486s ]
+[2020-08-06T09:51:30+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000372s ]
+[2020-08-06T09:52:05+08:00][sql] CONNECT:[ UseTime:0.011055s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:52:05+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001294s ]
+[2020-08-06T09:52:05+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000356s ]
+[2020-08-06T09:52:07+08:00][sql] CONNECT:[ UseTime:0.010703s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:52:07+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001268s ]
+[2020-08-06T09:52:07+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000235s ]
+[2020-08-06T09:52:09+08:00][sql] CONNECT:[ UseTime:0.000668s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:52:09+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001553s ]
+[2020-08-06T09:52:09+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000523s ]
+[2020-08-06T09:52:13+08:00][sql] CONNECT:[ UseTime:0.009956s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:52:13+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001569s ]
+[2020-08-06T09:52:13+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'test' LIMIT 1 [ RunTime:0.000437s ]
+[2020-08-06T09:52:18+08:00][sql] CONNECT:[ UseTime:0.010856s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:52:18+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001573s ]
+[2020-08-06T09:52:18+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000431s ]
+[2020-08-06T09:53:48+08:00][error] [8]Use of undefined constant IS_POST - assumed 'IS_POST'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:10]
+[2020-08-06T09:55:43+08:00][sql] CONNECT:[ UseTime:0.000735s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T09:55:43+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001551s ]
+[2020-08-06T09:55:43+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000428s ]
+[2020-08-06T10:00:37+08:00][error] [0]语法错误: unexpected ')'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Login.php:14]
+[2020-08-06T10:01:17+08:00][sql] CONNECT:[ UseTime:0.011177s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:01:17+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001706s ]
+[2020-08-06T10:01:17+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000329s ]
+[2020-08-06T10:01:23+08:00][sql] CONNECT:[ UseTime:0.011110s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:01:23+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001216s ]
+[2020-08-06T10:01:23+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin2' LIMIT 1 [ RunTime:0.000365s ]
+[2020-08-06T10:01:28+08:00][sql] CONNECT:[ UseTime:0.011156s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:01:28+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001310s ]
+[2020-08-06T10:01:28+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000344s ]
+[2020-08-06T10:07:20+08:00][sql] CONNECT:[ UseTime:0.001278s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:07:20+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001610s ]
+[2020-08-06T10:07:20+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000372s ]
+[2020-08-06T10:07:26+08:00][sql] CONNECT:[ UseTime:0.000692s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:07:26+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001627s ]
+[2020-08-06T10:07:26+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000371s ]
+[2020-08-06T10:07:30+08:00][sql] CONNECT:[ UseTime:0.011077s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:07:30+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001403s ]
+[2020-08-06T10:07:30+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000342s ]
+[2020-08-06T10:07:36+08:00][sql] CONNECT:[ UseTime:0.000698s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:07:36+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.002025s ]
+[2020-08-06T10:07:36+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` IS NULL LIMIT 1 [ RunTime:0.000513s ]
+[2020-08-06T10:08:02+08:00][sql] CONNECT:[ UseTime:0.000759s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:08:02+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001459s ]
+[2020-08-06T10:08:02+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000372s ]
+[2020-08-06T10:08:11+08:00][sql] CONNECT:[ UseTime:0.009826s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:08:11+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001488s ]
+[2020-08-06T10:08:11+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin2' LIMIT 1 [ RunTime:0.000468s ]
+[2020-08-06T10:08:15+08:00][sql] CONNECT:[ UseTime:0.010900s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:08:15+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001217s ]
+[2020-08-06T10:08:15+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000321s ]
+[2020-08-06T10:08:24+08:00][sql] CONNECT:[ UseTime:0.000713s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:08:24+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001301s ]
+[2020-08-06T10:08:24+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000369s ]
+[2020-08-06T10:08:29+08:00][sql] CONNECT:[ UseTime:0.011305s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:08:29+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001396s ]
+[2020-08-06T10:08:29+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000351s ]
+[2020-08-06T10:32:57+08:00][sql] CONNECT:[ UseTime:0.011231s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:32:57+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001978s ]
+[2020-08-06T10:32:57+08:00][sql] SELECT * FROM `api_admin` WHERE  `adminuser` = 'admin' LIMIT 1 [ RunTime:0.000431s ]
+[2020-08-06T10:38:06+08:00][sql] CONNECT:[ UseTime:0.011388s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:38:06+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002168s ]
+[2020-08-06T10:38:06+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001204s ]
+[2020-08-06T10:41:10+08:00][sql] CONNECT:[ UseTime:0.000838s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:41:10+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001906s ]
+[2020-08-06T10:41:10+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000904s ]
+[2020-08-06T10:43:22+08:00][sql] CONNECT:[ UseTime:0.011222s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:43:22+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001766s ]
+[2020-08-06T10:43:22+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000884s ]
+[2020-08-06T10:44:20+08:00][sql] CONNECT:[ UseTime:0.011271s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:44:20+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001594s ]
+[2020-08-06T10:44:20+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000894s ]
+[2020-08-06T10:44:22+08:00][sql] CONNECT:[ UseTime:0.010902s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:44:22+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001590s ]
+[2020-08-06T10:44:22+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000459s ]
+[2020-08-06T10:44:22+08:00][sql] CONNECT:[ UseTime:0.010964s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:44:22+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002087s ]
+[2020-08-06T10:44:22+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000446s ]
+[2020-08-06T10:45:01+08:00][sql] CONNECT:[ UseTime:0.011123s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:45:01+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001457s ]
+[2020-08-06T10:45:01+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000409s ]
+[2020-08-06T10:45:01+08:00][sql] CONNECT:[ UseTime:0.010005s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:45:01+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001372s ]
+[2020-08-06T10:45:01+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000416s ]
+[2020-08-06T10:45:02+08:00][sql] CONNECT:[ UseTime:0.009782s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:45:02+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001532s ]
+[2020-08-06T10:45:02+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000433s ]
+[2020-08-06T10:45:06+08:00][sql] CONNECT:[ UseTime:0.010474s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:45:06+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001510s ]
+[2020-08-06T10:45:06+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000477s ]
+[2020-08-06T10:48:27+08:00][sql] CONNECT:[ UseTime:0.000778s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:48:27+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001477s ]
+[2020-08-06T10:48:27+08:00][sql] SELECT * FROM `api_user` WHERE  `nickname` = '孙栋梁' [ RunTime:0.000857s ]
+[2020-08-06T10:48:33+08:00][sql] CONNECT:[ UseTime:0.010800s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:48:33+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001272s ]
+[2020-08-06T10:48:33+08:00][sql] SELECT * FROM `api_user` WHERE  `nickname` IS NULL [ RunTime:0.000817s ]
+[2020-08-06T10:48:57+08:00][sql] CONNECT:[ UseTime:0.009924s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:48:57+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001429s ]
+[2020-08-06T10:48:57+08:00][sql] SELECT * FROM `api_user` WHERE  `nickname` IS NULL [ RunTime:0.000899s ]
+[2020-08-06T10:49:02+08:00][sql] CONNECT:[ UseTime:0.000691s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:49:02+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001498s ]
+[2020-08-06T10:49:02+08:00][sql] SELECT * FROM `api_user` WHERE  `nickname` IS NULL [ RunTime:0.001078s ]
+[2020-08-06T10:50:31+08:00][sql] CONNECT:[ UseTime:0.011409s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:50:31+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001638s ]
+[2020-08-06T10:50:31+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000792s ]
+[2020-08-06T10:50:35+08:00][sql] CONNECT:[ UseTime:0.010826s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:50:35+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001449s ]
+[2020-08-06T10:50:35+08:00][sql] SELECT * FROM `api_user` WHERE  `nickname` = '孙栋梁' [ RunTime:0.000985s ]
+[2020-08-06T10:50:38+08:00][sql] CONNECT:[ UseTime:0.011438s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:50:38+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001496s ]
+[2020-08-06T10:50:38+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000349s ]
+[2020-08-06T10:52:48+08:00][sql] CONNECT:[ UseTime:0.010511s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:52:48+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001562s ]
+[2020-08-06T10:52:48+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000358s ]
+[2020-08-06T10:52:48+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000342s ]
+[2020-08-06T10:52:53+08:00][sql] CONNECT:[ UseTime:0.010389s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:52:53+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001528s ]
+[2020-08-06T10:52:53+08:00][sql] SELECT * FROM `api_user` WHERE  `nickname` = '孙栋梁' [ RunTime:0.000420s ]
+[2020-08-06T10:52:53+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` WHERE  `nickname` = '孙栋梁' [ RunTime:0.000365s ]
+[2020-08-06T10:52:56+08:00][sql] CONNECT:[ UseTime:0.011008s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:52:56+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001312s ]
+[2020-08-06T10:52:56+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000374s ]
+[2020-08-06T10:52:56+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000287s ]
+[2020-08-06T10:53:12+08:00][sql] CONNECT:[ UseTime:0.010858s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T10:53:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001615s ]
+[2020-08-06T10:53:12+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000488s ]
+[2020-08-06T10:53:12+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000351s ]
+[2020-08-06T11:05:12+08:00][sql] CONNECT:[ UseTime:0.011515s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T11:05:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001864s ]
+[2020-08-06T11:05:12+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000904s ]
+[2020-08-06T11:05:12+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000218s ]
+[2020-08-06T11:08:25+08:00][sql] CONNECT:[ UseTime:0.011112s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T11:08:25+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001594s ]
+[2020-08-06T11:08:25+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000990s ]
+[2020-08-06T11:08:25+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000420s ]
+[2020-08-06T11:08:56+08:00][sql] CONNECT:[ UseTime:0.000729s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T11:08:56+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001466s ]
+[2020-08-06T11:08:56+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000814s ]
+[2020-08-06T11:08:56+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000234s ]
+[2020-08-06T11:09:33+08:00][sql] CONNECT:[ UseTime:0.011329s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T11:09:33+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001709s ]
+[2020-08-06T11:09:33+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001076s ]
+[2020-08-06T11:09:33+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000281s ]
+[2020-08-06T14:14:30+08:00][sql] CONNECT:[ UseTime:0.003916s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:14:30+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.005414s ]
+[2020-08-06T14:14:30+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000695s ]
+[2020-08-06T14:14:30+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000324s ]
+[2020-08-06T14:16:14+08:00][sql] CONNECT:[ UseTime:0.010943s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:16:14+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002083s ]
+[2020-08-06T14:16:14+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.005481s ]
+[2020-08-06T14:16:14+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000290s ]
+[2020-08-06T14:16:17+08:00][sql] CONNECT:[ UseTime:0.000779s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:16:17+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001893s ]
+[2020-08-06T14:16:17+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001181s ]
+[2020-08-06T14:16:17+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000347s ]
+[2020-08-06T14:24:48+08:00][sql] CONNECT:[ UseTime:0.011310s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:24:48+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002490s ]
+[2020-08-06T14:24:48+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001062s ]
+[2020-08-06T14:24:48+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000327s ]
+[2020-08-06T14:25:09+08:00][sql] CONNECT:[ UseTime:0.011243s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:25:09+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.010307s ]
+[2020-08-06T14:25:09+08:00][error] [10500]数据表字段不存在:[name][D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-orm\src\db\Builder.php:164]
+[2020-08-06T14:25:24+08:00][sql] CONNECT:[ UseTime:0.000637s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:25:24+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.016037s ]
+[2020-08-06T14:25:24+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.001012s ]
+[2020-08-06T14:25:24+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000217s ]
+[2020-08-06T14:25:41+08:00][sql] CONNECT:[ UseTime:0.011313s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:25:41+08:00][sql] SHOW FULL COLUMNS FROM `api_admin` [ RunTime:0.001696s ]
+[2020-08-06T14:25:41+08:00][error] [10500]数据表字段不存在:[name][D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-orm\src\db\Builder.php:164]
+[2020-08-06T14:26:12+08:00][sql] CONNECT:[ UseTime:0.010442s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:26:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001790s ]
+[2020-08-06T14:26:12+08:00][sql] INSERT INTO `api_user` SET `name` = '146954852134' , `perss` = '146954852134' , `nickname` = '孙子碧' , `old` = '19' , `tel` = '146954852134' , `gender` = '男' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.028316s ]
+[2020-08-06T14:26:12+08:00][sql] CONNECT:[ UseTime:0.000687s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:26:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002026s ]
+[2020-08-06T14:26:12+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.005228s ]
+[2020-08-06T14:26:12+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000343s ]
+[2020-08-06T14:26:56+08:00][sql] CONNECT:[ UseTime:0.010652s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:26:56+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001882s ]
+[2020-08-06T14:26:56+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.006056s ]
+[2020-08-06T14:26:56+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000325s ]
+[2020-08-06T14:28:43+08:00][sql] CONNECT:[ UseTime:0.000731s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:28:43+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001857s ]
+[2020-08-06T14:28:43+08:00][sql] INSERT INTO `api_user` SET `name` = '1574815147' , `perss` = '1574815147' , `nickname` = '斯迪克' , `old` = '22' , `tel` = '1574815147' , `gender` = '女' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.027612s ]
+[2020-08-06T14:28:43+08:00][sql] CONNECT:[ UseTime:0.000803s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:28:43+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002981s ]
+[2020-08-06T14:28:43+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.005360s ]
+[2020-08-06T14:28:43+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000351s ]
+[2020-08-06T14:28:53+08:00][sql] CONNECT:[ UseTime:0.010689s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:28:53+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001811s ]
+[2020-08-06T14:28:53+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000415s ]
+[2020-08-06T14:28:53+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000280s ]
+[2020-08-06T14:30:25+08:00][sql] CONNECT:[ UseTime:0.000669s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:30:25+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001978s ]
+[2020-08-06T14:30:25+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000366s ]
+[2020-08-06T14:30:25+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000270s ]
+[2020-08-06T14:30:32+08:00][sql] CONNECT:[ UseTime:0.000729s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:30:32+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001696s ]
+[2020-08-06T14:30:32+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000402s ]
+[2020-08-06T14:30:32+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000291s ]
+[2020-08-06T14:30:57+08:00][sql] CONNECT:[ UseTime:0.000580s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:30:57+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001638s ]
+[2020-08-06T14:30:57+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000350s ]
+[2020-08-06T14:30:57+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000273s ]
+[2020-08-06T14:30:59+08:00][sql] CONNECT:[ UseTime:0.009654s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:30:59+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001794s ]
+[2020-08-06T14:30:59+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000354s ]
+[2020-08-06T14:30:59+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000311s ]
+[2020-08-06T14:32:53+08:00][sql] CONNECT:[ UseTime:0.010944s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:32:53+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001523s ]
+[2020-08-06T14:32:53+08:00][sql] INSERT INTO `api_user` SET `name` = '1574' , `perss` = '1574815147' , `nickname` = '斯迪克' , `old` = '22' , `tel` = '1574815147' , `gender` = '女' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.027300s ]
+[2020-08-06T14:32:53+08:00][sql] CONNECT:[ UseTime:0.000722s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:32:53+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001501s ]
+[2020-08-06T14:32:53+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000396s ]
+[2020-08-06T14:32:53+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000304s ]
+[2020-08-06T14:38:35+08:00][sql] CONNECT:[ UseTime:0.001009s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:38:35+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001711s ]
+[2020-08-06T14:38:35+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000301s ]
+[2020-08-06T14:38:35+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000215s ]
+[2020-08-06T14:38:38+08:00][sql] CONNECT:[ UseTime:0.010706s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:38:38+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001560s ]
+[2020-08-06T14:38:38+08:00][sql] DELETE FROM `api_user` WHERE  `id` = 5 [ RunTime:0.103637s ]
+[2020-08-06T14:38:38+08:00][sql] CONNECT:[ UseTime:0.000720s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:38:38+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001966s ]
+[2020-08-06T14:38:38+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000406s ]
+[2020-08-06T14:38:38+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000310s ]
+[2020-08-06T14:39:09+08:00][sql] CONNECT:[ UseTime:0.011283s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:39:09+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001507s ]
+[2020-08-06T14:39:09+08:00][sql] INSERT INTO `api_user` SET `name` = '1765421515' , `perss` = '1765421515' , `nickname` = '撒的谎' , `old` = '14' , `tel` = '1451765421515' , `gender` = '男' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.029299s ]
+[2020-08-06T14:39:09+08:00][sql] CONNECT:[ UseTime:0.000961s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:39:09+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001483s ]
+[2020-08-06T14:39:09+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000365s ]
+[2020-08-06T14:39:09+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000397s ]
+[2020-08-06T14:39:38+08:00][sql] CONNECT:[ UseTime:0.011151s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:39:38+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001636s ]
+[2020-08-06T14:39:38+08:00][sql] INSERT INTO `api_user` SET `name` = '1765421515' , `perss` = '1765421515' , `nickname` = '爱仕达' , `old` = '14' , `tel` = '1765421515' , `gender` = '女' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.027340s ]
+[2020-08-06T14:39:38+08:00][sql] CONNECT:[ UseTime:0.000642s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:39:38+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002092s ]
+[2020-08-06T14:39:38+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000393s ]
+[2020-08-06T14:39:38+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000303s ]
+[2020-08-06T14:39:58+08:00][sql] CONNECT:[ UseTime:0.010771s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:39:58+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001401s ]
+[2020-08-06T14:39:58+08:00][sql] INSERT INTO `api_user` SET `name` = '1774644115' , `perss` = '1774644115' , `nickname` = '士力架' , `old` = '25' , `tel` = '1774644115' , `gender` = '男' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.017277s ]
+[2020-08-06T14:39:58+08:00][sql] CONNECT:[ UseTime:0.010604s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:39:58+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001504s ]
+[2020-08-06T14:39:58+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000431s ]
+[2020-08-06T14:39:58+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000313s ]
+[2020-08-06T14:40:24+08:00][sql] CONNECT:[ UseTime:0.010162s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:40:24+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001362s ]
+[2020-08-06T14:40:24+08:00][sql] INSERT INTO `api_user` SET `name` = '7845547321' , `perss` = '7845547321' , `nickname` = '一句话' , `old` = '19' , `tel` = '7845547321' , `gender` = '男' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.026082s ]
+[2020-08-06T14:40:24+08:00][sql] CONNECT:[ UseTime:0.000760s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:40:24+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001412s ]
+[2020-08-06T14:40:24+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000312s ]
+[2020-08-06T14:40:24+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000390s ]
+[2020-08-06T14:40:52+08:00][sql] CONNECT:[ UseTime:0.011493s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:40:52+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001438s ]
+[2020-08-06T14:40:52+08:00][sql] INSERT INTO `api_user` SET `name` = '95647174' , `perss` = '95647174' , `nickname` = '胡彦斌' , `old` = '49' , `tel` = '95647174' , `gender` = '男' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.027465s ]
+[2020-08-06T14:40:52+08:00][sql] CONNECT:[ UseTime:0.010609s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:40:52+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001525s ]
+[2020-08-06T14:40:52+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000413s ]
+[2020-08-06T14:40:52+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000318s ]
+[2020-08-06T14:41:12+08:00][sql] CONNECT:[ UseTime:0.010769s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:41:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001344s ]
+[2020-08-06T14:41:12+08:00][sql] INSERT INTO `api_user` SET `name` = '94564412' , `perss` = '94564412' , `nickname` = '哦啊接' , `old` = '19' , `tel` = '94564412' , `gender` = '男' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.040034s ]
+[2020-08-06T14:41:12+08:00][sql] CONNECT:[ UseTime:0.000669s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:41:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001501s ]
+[2020-08-06T14:41:12+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000366s ]
+[2020-08-06T14:41:12+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000267s ]
+[2020-08-06T14:41:33+08:00][sql] CONNECT:[ UseTime:0.010669s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:41:33+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001409s ]
+[2020-08-06T14:41:33+08:00][sql] INSERT INTO `api_user` SET `name` = '8554841' , `perss` = '8554841' , `nickname` = '沙发' , `old` = '16' , `tel` = '8554841' , `gender` = '男' , `logodate` = '2020-08-06' , `superiorid` = 1 [ RunTime:0.016471s ]
+[2020-08-06T14:41:34+08:00][sql] CONNECT:[ UseTime:0.010767s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:41:34+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001469s ]
+[2020-08-06T14:41:34+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000454s ]
+[2020-08-06T14:41:34+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000319s ]
+[2020-08-06T14:41:50+08:00][sql] CONNECT:[ UseTime:0.000762s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:41:50+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001616s ]
+[2020-08-06T14:41:50+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000399s ]
+[2020-08-06T14:41:50+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000256s ]
+[2020-08-06T14:41:55+08:00][sql] CONNECT:[ UseTime:0.011074s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:41:55+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001437s ]
+[2020-08-06T14:41:55+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000340s ]
+[2020-08-06T14:41:55+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000307s ]
+[2020-08-06T14:41:57+08:00][sql] CONNECT:[ UseTime:0.011036s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:41:57+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001480s ]
+[2020-08-06T14:41:57+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000436s ]
+[2020-08-06T14:41:57+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000365s ]
+[2020-08-06T14:42:01+08:00][sql] CONNECT:[ UseTime:0.010197s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:42:01+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001531s ]
+[2020-08-06T14:42:01+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000455s ]
+[2020-08-06T14:42:01+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000339s ]
+[2020-08-06T14:42:02+08:00][sql] CONNECT:[ UseTime:0.011298s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:42:02+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001382s ]
+[2020-08-06T14:42:02+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000410s ]
+[2020-08-06T14:42:02+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000297s ]
+[2020-08-06T14:46:05+08:00][sql] CONNECT:[ UseTime:0.000969s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:46:05+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001818s ]
+[2020-08-06T14:46:05+08:00][sql] SELECT * FROM `api_user` [ RunTime:0.000339s ]
+[2020-08-06T14:46:05+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000271s ]
+[2020-08-06T14:53:40+08:00][sql] CONNECT:[ UseTime:0.001136s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:53:40+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001717s ]
+[2020-08-06T14:53:40+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000308s ]
+[2020-08-06T14:53:40+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000181s ]
+[2020-08-06T14:55:15+08:00][sql] CONNECT:[ UseTime:0.001261s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:55:15+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001672s ]
+[2020-08-06T14:55:15+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000406s ]
+[2020-08-06T14:55:15+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000290s ]
+[2020-08-06T14:55:30+08:00][sql] CONNECT:[ UseTime:0.011086s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:55:30+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001445s ]
+[2020-08-06T14:55:30+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000394s ]
+[2020-08-06T14:55:30+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000227s ]
+[2020-08-06T14:55:40+08:00][sql] CONNECT:[ UseTime:0.011498s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:55:40+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001383s ]
+[2020-08-06T14:55:40+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000414s ]
+[2020-08-06T14:55:40+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000312s ]
+[2020-08-06T14:55:45+08:00][sql] CONNECT:[ UseTime:0.000851s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:55:45+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001788s ]
+[2020-08-06T14:55:45+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000381s ]
+[2020-08-06T14:55:45+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000408s ]
+[2020-08-06T14:55:47+08:00][sql] CONNECT:[ UseTime:0.010620s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:55:47+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001435s ]
+[2020-08-06T14:55:47+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000385s ]
+[2020-08-06T14:55:47+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000220s ]
+[2020-08-06T14:56:27+08:00][sql] CONNECT:[ UseTime:0.000779s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:56:27+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001566s ]
+[2020-08-06T14:56:27+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000361s ]
+[2020-08-06T14:56:27+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` LIMIT 0,10 [ RunTime:0.000249s ]
+[2020-08-06T14:58:46+08:00][sql] CONNECT:[ UseTime:0.000811s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T14:58:46+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001485s ]
+[2020-08-06T14:58:46+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000344s ]
+[2020-08-06T14:58:46+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000256s ]
+[2020-08-06T15:02:42+08:00][sql] CONNECT:[ UseTime:0.010405s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:02:42+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001675s ]
+[2020-08-06T15:02:42+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000316s ]
+[2020-08-06T15:02:42+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000328s ]
+[2020-08-06T15:02:47+08:00][sql] CONNECT:[ UseTime:0.010765s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:02:47+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001384s ]
+[2020-08-06T15:02:47+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000323s ]
+[2020-08-06T15:02:47+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000274s ]
+[2020-08-06T15:02:48+08:00][sql] CONNECT:[ UseTime:0.000685s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:02:48+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001581s ]
+[2020-08-06T15:02:48+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000543s ]
+[2020-08-06T15:02:48+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000427s ]
+[2020-08-06T15:02:50+08:00][sql] CONNECT:[ UseTime:0.010952s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:02:50+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001635s ]
+[2020-08-06T15:02:50+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000534s ]
+[2020-08-06T15:02:50+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000300s ]
+[2020-08-06T15:02:52+08:00][sql] CONNECT:[ UseTime:0.010721s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:02:52+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001377s ]
+[2020-08-06T15:02:52+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000421s ]
+[2020-08-06T15:02:52+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000348s ]
+[2020-08-06T15:03:09+08:00][sql] CONNECT:[ UseTime:0.010565s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:03:09+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001529s ]
+[2020-08-06T15:03:09+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000405s ]
+[2020-08-06T15:03:09+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000321s ]
+[2020-08-06T15:03:12+08:00][sql] CONNECT:[ UseTime:0.000912s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:03:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001535s ]
+[2020-08-06T15:03:12+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000404s ]
+[2020-08-06T15:03:12+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000283s ]
+[2020-08-06T15:03:15+08:00][sql] CONNECT:[ UseTime:0.010531s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:03:15+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001713s ]
+[2020-08-06T15:03:15+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000521s ]
+[2020-08-06T15:03:15+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000418s ]
+[2020-08-06T15:04:10+08:00][sql] CONNECT:[ UseTime:0.009742s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:04:10+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001487s ]
+[2020-08-06T15:04:10+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000381s ]
+[2020-08-06T15:04:10+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000225s ]
+[2020-08-06T15:04:42+08:00][sql] CONNECT:[ UseTime:0.010927s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:04:42+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001524s ]
+[2020-08-06T15:04:42+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000444s ]
+[2020-08-06T15:04:42+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000254s ]
+[2020-08-06T15:08:41+08:00][sql] CONNECT:[ UseTime:0.000841s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:08:41+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001701s ]
+[2020-08-06T15:08:41+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000378s ]
+[2020-08-06T15:08:41+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000219s ]
+[2020-08-06T15:09:20+08:00][sql] CONNECT:[ UseTime:0.000633s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:09:20+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001538s ]
+[2020-08-06T15:09:20+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000311s ]
+[2020-08-06T15:09:20+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000200s ]
+[2020-08-06T15:10:05+08:00][sql] CONNECT:[ UseTime:0.010995s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:10:05+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001603s ]
+[2020-08-06T15:10:05+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000426s ]
+[2020-08-06T15:10:05+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000292s ]
+[2020-08-06T15:12:40+08:00][sql] CONNECT:[ UseTime:0.010885s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:12:40+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001781s ]
+[2020-08-06T15:12:40+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000452s ]
+[2020-08-06T15:12:40+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000426s ]
+[2020-08-06T15:12:45+08:00][sql] CONNECT:[ UseTime:0.000668s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:12:45+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001371s ]
+[2020-08-06T15:12:45+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000422s ]
+[2020-08-06T15:12:45+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000348s ]
+[2020-08-06T15:16:08+08:00][sql] CONNECT:[ UseTime:0.000709s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:16:08+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001596s ]
+[2020-08-06T15:16:08+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.004636s ]
+[2020-08-06T15:16:08+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000241s ]
+[2020-08-06T15:16:11+08:00][sql] CONNECT:[ UseTime:0.000695s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:16:11+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001791s ]
+[2020-08-06T15:16:11+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.001303s ]
+[2020-08-06T15:16:11+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000445s ]
+[2020-08-06T15:22:07+08:00][sql] CONNECT:[ UseTime:0.001293s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:22:07+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001856s ]
+[2020-08-06T15:22:07+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.001050s ]
+[2020-08-06T15:22:07+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000444s ]
+[2020-08-06T15:22:10+08:00][sql] CONNECT:[ UseTime:0.010927s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:22:10+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002021s ]
+[2020-08-06T15:22:10+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.001086s ]
+[2020-08-06T15:22:10+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000258s ]
+[2020-08-06T15:22:12+08:00][sql] CONNECT:[ UseTime:0.000714s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:22:12+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001470s ]
+[2020-08-06T15:22:12+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.001027s ]
+[2020-08-06T15:22:12+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000351s ]
+[2020-08-06T15:22:13+08:00][sql] CONNECT:[ UseTime:0.011321s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:22:13+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001834s ]
+[2020-08-06T15:22:13+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.001055s ]
+[2020-08-06T15:22:13+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000323s ]
+[2020-08-06T15:22:47+08:00][error] [0]语法错误: unexpected '*'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Apigetlist.php:30]
+[2020-08-06T15:23:11+08:00][error] [0]语法错误: unexpected '*'[D:\phpstudy_pro\WWW\127.0.0.12\apistore\app\v1\controller\Apigetlist.php:30]
+[2020-08-06T15:23:31+08:00][sql] CONNECT:[ UseTime:0.001085s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:23:31+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001764s ]
+[2020-08-06T15:23:31+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.001192s ]
+[2020-08-06T15:23:31+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000360s ]
+[2020-08-06T15:23:37+08:00][sql] CONNECT:[ UseTime:0.010336s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:23:37+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001376s ]
+[2020-08-06T15:23:37+08:00][sql] SELECT * FROM `api_user` WHERE  `nickname` = '1' LIMIT 0,10 [ RunTime:0.000909s ]
+[2020-08-06T15:23:37+08:00][error] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = ? LIMIT 0,10' at line 1[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-orm\src\db\PDOConnection.php:771]
+[2020-08-06T15:24:08+08:00][sql] CONNECT:[ UseTime:0.000624s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:24:08+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001349s ]
+[2020-08-06T15:24:08+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000830s ]
+[2020-08-06T15:24:08+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000160s ]
+[2020-08-06T15:25:32+08:00][sql] CONNECT:[ UseTime:0.011043s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:25:32+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002078s ]
+[2020-08-06T15:25:32+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.001228s ]
+[2020-08-06T15:25:32+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000188s ]
+[2020-08-06T15:25:41+08:00][sql] CONNECT:[ UseTime:0.000728s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:25:41+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001688s ]
+[2020-08-06T15:25:41+08:00][sql] SELECT * FROM `api_user` WHERE  `tel` = '17606696964' LIMIT 0,10 [ RunTime:0.001141s ]
+[2020-08-06T15:25:41+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` WHERE  `tel` = '17606696964' LIMIT 0,10 [ RunTime:0.000497s ]
+[2020-08-06T15:25:45+08:00][sql] CONNECT:[ UseTime:0.011378s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:25:45+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001445s ]
+[2020-08-06T15:25:45+08:00][sql] SELECT * FROM `api_user` WHERE  `tel` = '15' LIMIT 0,10 [ RunTime:0.001071s ]
+[2020-08-06T15:25:45+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` WHERE  `tel` = '15' LIMIT 0,10 [ RunTime:0.000544s ]
+[2020-08-06T15:25:49+08:00][sql] CONNECT:[ UseTime:0.010760s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:25:49+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001428s ]
+[2020-08-06T15:25:49+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000987s ]
+[2020-08-06T15:25:49+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000224s ]
+[2020-08-06T15:28:45+08:00][sql] CONNECT:[ UseTime:0.011294s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:28:45+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001702s ]
+[2020-08-06T15:28:45+08:00][sql] SELECT * FROM `api_user` WHERE  `tel` = '16' LIMIT 0,10 [ RunTime:0.000990s ]
+[2020-08-06T15:28:45+08:00][error] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = ? LIMIT 0,10' at line 1[D:\phpstudy_pro\WWW\127.0.0.12\apistore\vendor\topthink\think-orm\src\db\PDOConnection.php:771]
+[2020-08-06T15:29:29+08:00][sql] CONNECT:[ UseTime:0.000639s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:29:29+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001853s ]
+[2020-08-06T15:29:29+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.001010s ]
+[2020-08-06T15:29:29+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000295s ]
+[2020-08-06T15:29:34+08:00][sql] CONNECT:[ UseTime:0.011350s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:29:34+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001820s ]
+[2020-08-06T15:29:34+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000423s ]
+[2020-08-06T15:29:34+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000321s ]
+[2020-08-06T15:29:35+08:00][sql] CONNECT:[ UseTime:0.011081s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:29:35+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001369s ]
+[2020-08-06T15:29:35+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000362s ]
+[2020-08-06T15:29:35+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000250s ]
+[2020-08-06T15:30:51+08:00][sql] CONNECT:[ UseTime:0.000733s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:30:51+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001763s ]
+[2020-08-06T15:30:51+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000559s ]
+[2020-08-06T15:30:51+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000426s ]
+[2020-08-06T15:31:57+08:00][sql] CONNECT:[ UseTime:0.010940s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:31:57+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001865s ]
+[2020-08-06T15:31:57+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000606s ]
+[2020-08-06T15:31:57+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000352s ]
+[2020-08-06T15:35:01+08:00][sql] CONNECT:[ UseTime:0.010974s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:35:01+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001726s ]
+[2020-08-06T15:35:01+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000339s ]
+[2020-08-06T15:35:01+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000287s ]
+[2020-08-06T15:37:15+08:00][sql] CONNECT:[ UseTime:0.010436s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T15:37:15+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001562s ]
+[2020-08-06T15:37:15+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000352s ]
+[2020-08-06T15:37:15+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000270s ]
+[2020-08-06T16:19:46+08:00][sql] CONNECT:[ UseTime:0.001261s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:19:46+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002470s ]
+[2020-08-06T16:19:46+08:00][sql] SELECT * FROM `api_user` LIMIT 10,10 [ RunTime:0.000470s ]
+[2020-08-06T16:19:46+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000349s ]
+[2020-08-06T16:19:46+08:00][sql] CONNECT:[ UseTime:0.000780s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:19:46+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001822s ]
+[2020-08-06T16:19:46+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000530s ]
+[2020-08-06T16:19:46+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000333s ]
+[2020-08-06T16:25:00+08:00][sql] CONNECT:[ UseTime:0.001215s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:25:00+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002563s ]
+[2020-08-06T16:25:00+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000608s ]
+[2020-08-06T16:25:00+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000383s ]
+[2020-08-06T16:26:30+08:00][sql] CONNECT:[ UseTime:0.011143s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:26:30+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002025s ]
+[2020-08-06T16:26:30+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000454s ]
+[2020-08-06T16:26:30+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000217s ]
+[2020-08-06T16:26:37+08:00][sql] CONNECT:[ UseTime:0.010965s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:26:37+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001913s ]
+[2020-08-06T16:26:37+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000617s ]
+[2020-08-06T16:26:37+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000317s ]
+[2020-08-06T16:27:02+08:00][sql] CONNECT:[ UseTime:0.010675s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:27:02+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002591s ]
+[2020-08-06T16:27:02+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000493s ]
+[2020-08-06T16:27:02+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000383s ]
+[2020-08-06T16:27:31+08:00][sql] CONNECT:[ UseTime:0.000768s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:27:31+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001825s ]
+[2020-08-06T16:27:31+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000461s ]
+[2020-08-06T16:27:31+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000259s ]
+[2020-08-06T16:27:36+08:00][sql] CONNECT:[ UseTime:0.000726s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:27:36+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.001762s ]
+[2020-08-06T16:27:36+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.000409s ]
+[2020-08-06T16:27:36+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.000387s ]
+[2020-08-06T16:28:13+08:00][sql] CONNECT:[ UseTime:0.002748s ] mysql:host=127.0.0.1;port=3306;dbname=apistore;charset=utf8
+[2020-08-06T16:28:13+08:00][sql] SHOW FULL COLUMNS FROM `api_user` [ RunTime:0.002590s ]
+[2020-08-06T16:28:13+08:00][sql] SELECT * FROM `api_user` LIMIT 0,10 [ RunTime:0.001050s ]
+[2020-08-06T16:28:13+08:00][sql] SELECT COUNT(*) AS think_count FROM `api_user` [ RunTime:0.001176s ]
